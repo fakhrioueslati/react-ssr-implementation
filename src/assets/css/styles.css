@@ -1,0 +1,16 @@
+body {
+    color:red;
+    padding: 10px;
+  }
+  
+  .title-about{
+    text-align: center;
+    font-style: italic;
+  }
+
+  .title-home{
+    text-decoration: underline;
+    text-align: left;
+    color:blue;
+  }
+  
